@@ -9,8 +9,17 @@ index.html: Projenin ana sayfasıdır. Tüm içerik bu dosyada yer alır.
 Kullanılan Teknolojiler
 HTML5: Sayfanın yapısını oluşturmak için kullanılmıştır.
 # Ödev Gereksinimleri
+
 HTML5 Doküman Yapısı: <head> etiketi içinde başlık ve karakter seti belirtilmiştir.
+
+
 Başlık ve Paragraflar: Ana başlık (<h1>), alt başlıklar (<h2>) ve paragraflar (<p>) kullanılmıştır.
+
+
 Listeler: Sırasız liste (<ul>) ve sıralı liste (<ol>) öğeleri kullanılmıştır.
+
+
 Görseller: <img> etiketi ile görseller eklenmiş ve alt özniteliği doldurulmuştur.
+
+
 Bağlantılar: <a> etiketi ile iç ve dış bağlantı verilmiştir.
